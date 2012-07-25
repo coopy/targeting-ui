@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+select, .chzn-container {
+    margin-right: 20px;
+}
+.chzn-container {
+  display: inline-block;
+  *display: inline;
+  margin-bottom: 0px;
+  *zoom: 1;
+  vertical-align: middle;
+}
